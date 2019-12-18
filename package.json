@@ -1,0 +1,27 @@
+{
+  "name": "medical-platform-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec ts-node src/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.12.21",
+    "nodemon": "^2.0.2",
+    "typescript": "^3.7.3",
+    "ts-node": "3.3.0"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.9.14",
+    "express": "^4.17.1",
+    "pg": "^7.15.0",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^0.17.5",
+    "typeorm": "^0.2.21"
+  }
+}
