@@ -21,7 +21,7 @@
     "express": "^4.17.1",
     "pg": "^7.15.0",
     "reflect-metadata": "^0.1.13",
-    "type-graphql": "^0.17.5",
+    "type-graphql": "^0.17.6",
     "typeorm": "^0.2.21"
   }
 }
