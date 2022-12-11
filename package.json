@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "apollo-server-express": "^2.9.14",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pg": "^7.15.0",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^0.17.5",
